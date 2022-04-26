@@ -1,0 +1,194 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.sub-body{
+   border: 36px solid #F1EAEA;
+    background-color: #FFFFFF;
+}
+.wrapper{
+    height: 20vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.logo{
+    display: flex;
+}
+.logo img{
+    width: 21%;
+    height: 9vh;
+    margin-top: -5%;
+    margin-right: -8%;
+}
+.logo .color{
+    color: #60A79A;
+}
+.nav-links{
+    display: flex;
+    width: 40%;
+    justify-content: space-around;
+    list-style: none;
+}
+.nav-links .nav-home{
+    color: #549188;
+   
+}
+.nav-links li a{
+    color: black;
+    font-weight: 5500;
+    text-decoration: none;
+}
+.bt {
+    background-color: #5184F9;
+    border-radius: 40px;
+    border: none;
+    padding: 8px;
+}
+.home{
+    /* background-color: #43A191; */
+    float: 1;
+    height: 90vh;
+    display: flex;
+}
+.content{
+    margin-top: 8%;
+    margin-left: 10%;
+}
+.icon{
+    /* font-size: 2px; */
+    
+}
+.fans{
+    margin-left: 6%;
+    font-size: 20px;
+    width: 10%;
+    height: -230px;
+    background-color: #80f951;
+    color: #545a91;
+    border-radius: 200%;
+    padding: 11px 11px;
+}
+.fa-instagram-square{
+    font-size: 20px;
+    color: #161A25;
+    background-color: #FABB30;
+}
+.fa-twitter{
+    font-size: 20px;
+    color: #fff;
+    background-color: #43A191;
+}
+.text{
+    margin-top: 10%;
+}
+.text h1{
+    color: #3A1404;
+    font-size: 36px;
+    font-weight: 900;
+}
+.text p{
+    margin-top: 4%;
+    font-size: 15px;
+    color: #95969C;
+}
+.button{
+    width: 80%;
+    justify-content: space-around;
+}
+.butto{
+    background-color: #43A191;
+    border-radius: 40px;
+    border: none;
+    padding: 17px;
+    margin-top: 6%;
+    margin-right: 5%;
+    box-shadow: #ec92a1 1px 22px 60px;
+}
+.butt{
+    margin-top: -15%;
+    margin-left: 38%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #ffffff;
+    border-radius: 40px;
+    border: none;
+    box-shadow: 1px 22px 60px;
+    padding:9px;
+    width: 50%;
+}
+.butt img{
+    width: 11%;
+    margin-right: -30%;
+}
+.fa-diagram-cells {
+    /* background-color: #161A25; */
+    font-size: 70px;
+    color: #050a14;
+}
+.beauty{
+   
+    margin-top:-23%;
+    margin-left: 10%;
+   
+}
+.splash img{
+    margin-left: -5%;
+    margin-top: 56%;
+    width: 70%;
+    height: 330px;
+  
+}
+.dig img{
+    margin-left: -4%;
+    margin-top: -90%;
+    width: 110%;
+    height: 470px;   
+}
+.mini{
+    height: 50vh;
+}
+.three-boxes{
+display: flex;
+height: 20vh;
+margin-top: 2%;
+margin-left: 10%;
+
+}
+.box{
+    border: 1px solid #FAF6F8;
+    width: 30%;
+    background-color: #ffffff;
+    box-shadow: 1px 0px 2px;
+    /* margin-top: 7%; */
+
+}
+.box h1{
+    display: flex;
+    align-items: center;
+    margin-top: 7%;
+    margin-left: 7%;
+}
+.box h5{
+    display: flex;
+    align-items: center;
+    margin-top: 6%;
+    margin-left: 2%;
+    font-weight: bolder;
+}
+.firms{
+    display: flex;
+    margin-top: 4%;
+    margin-left: 10%;
+}
+.tech{
+    width: 30%;
+}
+.fa {
+    font-size: 24px;
+    margin-left: 15%;
+}
